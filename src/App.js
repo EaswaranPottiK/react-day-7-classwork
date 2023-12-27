@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState, useTransition } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { Toast } from './Toast';
 import List from './List';
 
 function App() {
