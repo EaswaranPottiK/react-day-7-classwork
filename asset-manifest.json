@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-day-7-classwork/static/css/main.a7b016ab.css",
+    "main.js": "/react-day-7-classwork/static/js/main.b96f5d7f.js",
+    "static/js/787.17ff03a8.chunk.js": "/react-day-7-classwork/static/js/787.17ff03a8.chunk.js",
+    "index.html": "/react-day-7-classwork/index.html",
+    "main.a7b016ab.css.map": "/react-day-7-classwork/static/css/main.a7b016ab.css.map",
+    "main.b96f5d7f.js.map": "/react-day-7-classwork/static/js/main.b96f5d7f.js.map",
+    "787.17ff03a8.chunk.js.map": "/react-day-7-classwork/static/js/787.17ff03a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b016ab.css",
+    "static/js/main.b96f5d7f.js"
+  ]
+}
