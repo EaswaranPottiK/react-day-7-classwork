@@ -43,8 +43,6 @@ function App() {
   function deleteCard(){
 
   }
-
-  console.log(itemList)
   return (
     <div style={{marginTop:'100px'}}>
       <div  className='mainDiv'>

@@ -10,7 +10,6 @@ const List = (prop) => {
       updatedList.splice(prop.count,1)
       prop.addItemList(updatedList)
     }
-    console.log(checkBox)
   return (
     <div id={prop.count} style={{display:'flex',alignItems:'center',gap:'30vh'}}>
         <div style={{display:'flex'}}>
